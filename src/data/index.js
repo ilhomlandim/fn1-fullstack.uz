@@ -52,6 +52,8 @@ const group = [
     slug: "azizbek",
     fullName: "Azizbek To'ychiyev",
     nickname: "ddoc_teract",
+    description:
+      "Hello, i’m Azizbek! I’m a self-taught front-end developer based in Ferghana, Uzbekistan. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences. Transforming my creativity and knowledge into a websites has been my passion for over a year. I have been helping various clients to establish their presence online. I always strive to learn about the newest technologies and frameworks.",
     socials: {
       github: "azizbeknoder",
       linkedin: "azizbeknoder",
@@ -73,6 +75,8 @@ const group = [
     slug: "shoxrux",
     fullName: "Shoxrux Toxirov",
     nickname: "why_shoxrux",
+    description:
+      "  Shoxrux Toxirov, Salom! Men Shoxrux Toxirov, O‘zbekistonning Farg'ona viloyati, Uchko'prik tumanida tug‘ilgan web dasturchiman. Dasturlashga bo‘lgan qiziqishim 2023-yilning o‘rtalarida boshlangan. O‘sha paytda men Najot ta'limda dasturlashni o‘rganishga kirishdim. Keyingi ikki yil davomida NodeJs va ReactJs bilan shug‘ullanib, dasturlash bo‘yicha mustahkam asos yaratdim. Men yangi g‘oyalarni hayotga tatbiq etish va hamkorlik qilishdan mamnun bo‘laman!",
     socials: {
       github: "whyshoxrux",
     },
