@@ -11,7 +11,7 @@ body {
   src: url("/Leiko-Regular.otf");
 }
 
-@layer base{
+@layer base {
   :root {
     --font-leiko: "Leiko", serif;
     --background: 0 0% 100%;
