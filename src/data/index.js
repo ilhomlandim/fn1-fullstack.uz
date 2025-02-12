@@ -89,7 +89,7 @@ const group = [
     fullName: "Muslimbek Sotvoldiyev",
     nickname: "muslimbek_sotvoldiyev",
     socials: {
-      github: "muslimbeko8",
+      github: "muslimbek-sotvoldiyev",
       linkedin: "muslimbek-sotvoldiyev",
     },
     img: "/muslimbek.jpg",
